@@ -4,7 +4,7 @@ local function mousebutton(x, y, button, status)
 		if clicked_down(x, y) then
 			set_scene("Lib1f2")
 		else
-			set_scene("Path8b")
+			set_scene("TreeCircle1f")
 		end
 	end
 end
